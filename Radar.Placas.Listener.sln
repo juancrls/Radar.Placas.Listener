@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radar.Placas.Listener.App", "Radar.Placas.Listener.App\Radar.Placas.Listener.App.csproj", "{F35BD016-FBA2-4A20-A238-36F4618F94E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radar.Placas.Listener.Domain", "Radar.Placas.Listener.Domain\Radar.Placas.Listener.Domain.csproj", "{C71EC523-A995-47B3-8498-CA138B1DA461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radar.Placas.Listener.Hosting", "Radar.Placas.Listener.Hosting\Radar.Placas.Listener.Hosting.csproj", "{B22BD10D-AD35-4B99-B2D4-002AA9E220B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radar.Placas.Listener.Infra", "Radar.Placas.Listener.Infra\Radar.Placas.Listener.Infra.csproj", "{A8C1735C-7415-4758-AD5E-EFE531DDB1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35BD016-FBA2-4A20-A238-36F4618F94E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35BD016-FBA2-4A20-A238-36F4618F94E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35BD016-FBA2-4A20-A238-36F4618F94E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35BD016-FBA2-4A20-A238-36F4618F94E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71EC523-A995-47B3-8498-CA138B1DA461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71EC523-A995-47B3-8498-CA138B1DA461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71EC523-A995-47B3-8498-CA138B1DA461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71EC523-A995-47B3-8498-CA138B1DA461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22BD10D-AD35-4B99-B2D4-002AA9E220B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22BD10D-AD35-4B99-B2D4-002AA9E220B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22BD10D-AD35-4B99-B2D4-002AA9E220B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22BD10D-AD35-4B99-B2D4-002AA9E220B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C1735C-7415-4758-AD5E-EFE531DDB1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C1735C-7415-4758-AD5E-EFE531DDB1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C1735C-7415-4758-AD5E-EFE531DDB1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C1735C-7415-4758-AD5E-EFE531DDB1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E1AF9D-1A56-40EE-B1EF-B2F206642986}
+	EndGlobalSection
+EndGlobal

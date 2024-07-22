@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Radar.Placas.Listener.Hosting": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "dev"
+      },
+      "applicationUrl": "https://localhost:55369;http://localhost:55370"
+    }
+  }
+}
